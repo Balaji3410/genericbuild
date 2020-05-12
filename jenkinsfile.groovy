@@ -1,0 +1,1 @@
+genericbuild(targer:"ConsoleApp3")
